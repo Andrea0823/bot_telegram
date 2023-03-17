@@ -1,0 +1,2 @@
+0 teclado
+1 mouse
